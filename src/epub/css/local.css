@@ -2,16 +2,10 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-/* All epigraphs */
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
 	-epub-hyphens: none;
-}
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
 }
 
 [epub|type~="epigraph"] cite{
@@ -23,9 +17,7 @@
 [epub|type~="epigraph"] cite i{
 	font-style: italic;
 }
-/* End all epigraphs */
 
-/* Full-page epigraphs */
 section[epub|type~="epigraph"]{
 	text-align: center;
 }
@@ -52,12 +44,23 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
-	section[epub|type~="epigraph"] > * + *{
-		margin-top: 3em;
-	}
 }
-/* End full-page epigraphs */
+
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+
 
 blockquote[xml|lang]{
 	font-style: italic;
