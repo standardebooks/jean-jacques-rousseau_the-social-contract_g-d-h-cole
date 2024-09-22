@@ -61,7 +61,6 @@ section[epub|type~="epigraph"] > *{
 	display: none;
 }
 
-
 blockquote[xml|lang]{
 	font-style: italic;
 }
