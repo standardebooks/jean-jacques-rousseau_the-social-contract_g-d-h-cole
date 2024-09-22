@@ -45,14 +45,14 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85123930</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Rousseau explores the political philosophy of authority originating from the consent of the people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;i&gt;The Social Contract&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/jean-jacques-rousseau"&gt;Jean-Jacques Rousseau&lt;/a&gt; presents the political philosophy based on the principle that legitimate authority originates from the consent of the people. Individuals willingly surrender their rights to create a collective Sovereign, which embodies the general will of the people.&lt;/p&gt;
+			&lt;p&gt;Rousseau examines different forms of government, addresses the challenges of ensuring that a government executes the general will of the people, and addresses the need for safeguards against the abuse of power. He demonstrates that active citizenship and a strong social compact are crucial for maintaining a just and free society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46333</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001748350</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Social_Contract</meta>
