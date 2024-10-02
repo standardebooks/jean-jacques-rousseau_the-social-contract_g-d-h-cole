@@ -164,9 +164,9 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="introduction.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
 		<itemref idref="foreword.xhtml"/>
+		<itemref idref="halftitlepage.xhtml"/>
 		<itemref idref="book-1.xhtml"/>
 		<itemref idref="chapter-1-1.xhtml"/>
 		<itemref idref="chapter-1-2.xhtml"/>
