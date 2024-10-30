@@ -46,6 +46,8 @@
 		<meta property="term" refines="#subject-3">sh85123930</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
+		<meta property="collection-type" refines="#collection-1">set</meta>
 		<dc:description id="description">Rousseau explores the political philosophy of authority originating from the consent of the people.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;i&gt;The Social Contract&lt;/i&gt;, &lt;a href="https://standardebooks.org/ebooks/jean-jacques-rousseau"&gt;Jean-Jacques Rousseau&lt;/a&gt; presents a political philosophy based on the principle that legitimate authority originates from the consent of the people. Individuals willingly surrender their rights in order to create a collective sovereign, which embodies the general will of the people.&lt;/p&gt;
