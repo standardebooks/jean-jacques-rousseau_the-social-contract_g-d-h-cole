@@ -58,7 +58,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/46333</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001748350</dc:source>
 		<meta property="se:production-notes">Minor edits were made to the introduction to remove references to works not included in this volume.</meta>
-		<meta property="se:word-count">56521</meta>
+		<meta property="se:word-count">56409</meta>
 		<meta property="se:reading-ease.flesch">50.91</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Social_Contract</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/jean-jacques-rousseau_the-social-contract_g-d-h-cole</meta>
