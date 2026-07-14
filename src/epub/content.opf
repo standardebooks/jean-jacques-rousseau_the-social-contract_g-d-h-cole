@@ -36,7 +36,7 @@
 		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:title id="fulltitle">The Social Contract; or, Principles of Political Right</dc:title>
 		<meta property="file-as" refines="#fulltitle">Social Contract; or, Principles of Political Right, The</meta>
-		<meta property="title-type" refines="#fulltitle">extended</meta>
+		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Economics</dc:subject>
 		<dc:subject id="subject-2">Political science -- Early works to 1800</dc:subject>
 		<dc:subject id="subject-3">Social contract</dc:subject>
