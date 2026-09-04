@@ -38,7 +38,7 @@
 		<meta property="file-as" refines="#fulltitle">Social Contract; or, Principles of Political Right, The</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">Economics</dc:subject>
-		<dc:subject id="subject-2">Political science -- Early works to 1800</dc:subject>
+		<dc:subject id="subject-2">Political science--Early works to 1800</dc:subject>
 		<dc:subject id="subject-3">Social contract</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85040850</meta>
